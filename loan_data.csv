@@ -1,0 +1,11 @@
+applicant_id,age_group,loan_status,income,credit_score
+1,over_40,Approved,75000,720
+2,under_40,Approved,62000,680
+3,over_40,Denied,45000,590
+4,over_40,Denied,82000,710
+5,under_40,Approved,55000,640
+6,under_40,Approved,91000,750
+7,over_40,Denied,60000,620
+8,under_40,Denied,40000,580
+9,over_40,Denied,110000,790
+10,under_40,Approved,52000,630
